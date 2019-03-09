@@ -1,3 +1,6 @@
+/*
+用小学学加减法的思维从低位向高位加， 注意进位即可
+*/
 /**
  * Definition for singly-linked list.
  * struct ListNode {
